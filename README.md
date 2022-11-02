@@ -1,4 +1,4 @@
-# web_BrandDesign
+# web_BrandDesign1
 
 This project is brand design project and I used html, css. This project goal was one brand redesign own my design. I wanted to creat Nike shopping mall by own my web page so I added sections these are top of bar, list of products, service bar. Actually, if I want to add more fuctions or options I can use javascript with database. However, this is just web design form so I just used html and css. 
 

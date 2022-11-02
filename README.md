@@ -11,3 +11,6 @@ This project goal was one brand redesign own my design.
 
 ![topbar](https://user-images.githubusercontent.com/117292231/199576076-f5939ccf-2ed9-4f19-bd57-239335a32bc6.png)
 
+3 picture is list of shoes there is separated each product by product, so user can read product's information shortly with price.
+
+![listbar](https://user-images.githubusercontent.com/117292231/199576740-c4da2193-4529-4912-a993-3c69b5575b0d.png)

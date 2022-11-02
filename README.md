@@ -1,6 +1,6 @@
 # web_BrandDesign
 
-This project is brand design project and I used html, css. This project goal was one brand redesign own my design. I wanted to creat Nike shopping mall by own my web page so I added sections these are top of bar, list of products, service bar. Actually, if I want to add more fuctions or options I can use javascript with database. 
+This project is brand design project and I used html, css. This project goal was one brand redesign own my design. I wanted to creat Nike shopping mall by own my web page so I added sections these are top of bar, list of products, service bar. Actually, if I want to add more fuctions or options I can use javascript with database. However, this is just web design form so I just used html and css. 
 
 1 picture is the main page I wanted to change Nike brand for my view. So there is main logo and top of bar products list and bottom of service bar.
 
